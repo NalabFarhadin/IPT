@@ -1,0 +1,20 @@
+D:\Nalab\NalabSolution1\Medicine\bin\Debug\Medicine.dacpac
+D:\Nalab\NalabSolution1\Medicine\bin\Debug\Medicine.dll
+D:\Nalab\NalabSolution1\Medicine\bin\Debug\Medicine.pdb
+D:\Nalab\NalabSolution1\Medicine\obj\Debug\Medicine.sqlproj.AssemblyReference.cache
+D:\Nalab\NalabSolution1\Medicine\obj\Debug\Model.xml
+D:\Nalab\NalabSolution1\Medicine\obj\Debug\refactor.xml
+D:\Nalab\NalabSolution1\Medicine\obj\Debug\postdeploy.sql
+D:\Nalab\NalabSolution1\Medicine\obj\Debug\predeploy.sql
+D:\Nalab\NalabSolution1\Medicine\obj\Debug\Medicine.dll
+D:\Nalab\NalabSolution1\Medicine\obj\Debug\Medicine.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\NalabSolution1\Medicine\bin\Debug\Medicine.dacpac
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\NalabSolution1\Medicine\bin\Debug\Medicine.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\NalabSolution1\Medicine\bin\Debug\Medicine.pdb
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\NalabSolution1\Medicine\obj\Debug\Medicine.sqlproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\NalabSolution1\Medicine\obj\Debug\Model.xml
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\NalabSolution1\Medicine\obj\Debug\refactor.xml
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\NalabSolution1\Medicine\obj\Debug\postdeploy.sql
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\NalabSolution1\Medicine\obj\Debug\predeploy.sql
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\NalabSolution1\Medicine\obj\Debug\Medicine.dll
+C:\Users\Admin\Desktop\Mga Kupal\Nalab\NalabSolution1\Medicine\obj\Debug\Medicine.pdb
