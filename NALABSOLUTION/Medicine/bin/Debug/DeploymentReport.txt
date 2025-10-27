@@ -1,0 +1,22 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       The column [dbo].[Table1].[BastaTambal] is being dropped, data loss could occur.
+
+** User actions
+     Alter
+       [dbo].[Table1] (Table)
+
+** Supporting actions
+
+The column [dbo].[Table1].[BastaTambal] is being dropped, data loss could occur.
+If this deployment is executed, changes to [dbo].[Table1] might introduce run-time errors in [dbo].[Create].
+If this deployment is executed, changes to [dbo].[Table1] might introduce run-time errors in [dbo].[Delete].
+If this deployment is executed, changes to [dbo].[Table1] might introduce run-time errors in [dbo].[Select].
+If this deployment is executed, changes to [dbo].[Table1] might introduce run-time errors in [dbo].[Update].
+
